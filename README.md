@@ -1,4 +1,4 @@
-<img width="802" height="493" alt="netflix image " src="https://github.com/user-attachments/assets/c4369c91-b873-4e77-8868-70619bb6d1d4" />
+        <img width="802" height="493" alt="netflix image " src="https://github.com/user-attachments/assets/c4369c91-b873-4e77-8868-70619bb6d1d4" />
 <img width="1352" height="737" alt="netflix" src="https://github.com/user-attachments/assets/3b1c3e84-0ff4-4219-a342-ddfc3563b764" />
 📊 Netflix Power BI Dashboard – Project Description
 
